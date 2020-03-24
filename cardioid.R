@@ -54,4 +54,4 @@ segments(x3[s],y3[s],x3[k*s],y3[k*s],col='orange')
 times.table(50)
 
 
-# Video --  
+# Video --  https://www.youtube.com/watch?v=N-1Xfr1WFiI
