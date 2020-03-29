@@ -20,3 +20,5 @@ for (i in 1:1000){
 }
 par(bg='black',mar=rep(0,4))
 plot(x,y, pch=19,col='orange',cex=1/2)
+
+#youtube video -- https://youtu.be/U4yanP62p1w
