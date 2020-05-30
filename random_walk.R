@@ -3,7 +3,7 @@
 x = 0
 y = 0
 
-no_of_points = 300
+no_of_points = 100
 
 for (i in 1:no_of_points){
   #create a random number between 1 to 4
@@ -51,7 +51,7 @@ clr = rainbow(no_of_points)
 
 for (i in 2:no_of_points){
   # animate it
-  #Sys.sleep(0.05)
+  Sys.sleep(0.15)
   
   arrows(x[i-1],y[i-1], x[i], y[i],length = 0.1, col=clr[i])
 }
