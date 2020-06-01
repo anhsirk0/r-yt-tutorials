@@ -42,3 +42,8 @@ y = s*sin(s)
 plot(x,y,col='yellow',pch=19,type='l',cex=1/4)
 
 # it becomes interesting when you select type of line
+
+
+
+## youtube video
+### https://youtu.be/ZT2WMvKrko4
